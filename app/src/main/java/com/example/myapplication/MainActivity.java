@@ -107,50 +107,6 @@ public class MainActivity extends AppCompatActivity {
             });
         }
 
-        /*
-        buttonAdd.setOnClickListener( new View.OnClickListener()
-        {
-            @Override
-            public void onClick(View v)
-            {
-                double operand1 = Double.parseDouble(textBoxOperand1.getText().toString());
-                double operand2 = Double.parseDouble(textBoxOperand2.getText().toString());
-
-                double result = operand1 + operand2;
-                textLabelResult.setText(Double.toString(result));
-
-            }
-
-        });
-
-        buttonSubtract.setOnClickListener( new View.OnClickListener()
-        {
-            @Override
-            public void onClick(View v)
-            {
-            }
-
-        });
-
-        buttonMultiply.setOnClickListener( new View.OnClickListener()
-        {
-            @Override
-            public void onClick(View v)
-            {
-            }
-
-        });
-
-        buttonDivide.setOnClickListener( new View.OnClickListener()
-        {
-            @Override
-            public void onClick(View v)
-            {
-            }
-
-        });
-    */
-
     }
 
 
